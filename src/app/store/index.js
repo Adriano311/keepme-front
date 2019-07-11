@@ -13,7 +13,7 @@ Vue.use(Vuex)
 
 const state = {
   APP_NAME   : 'keepme-front', // Nom de l'application et du cookie
-  API_SERVER : "http://api.keepme.com", // Adresse du serveur
+  API_SERVER : "http://api.keepme.ovh", // Adresse du serveur
   COOKIE_NAME: "keepme_token", // Adresse du serveur
   GMAPS_KEY  : 'AIzaSyDmlw5nwiNkWJo3Xznkn05vLFpP10lBXjU',
   form_load  : false, // Le formulaire est submit
